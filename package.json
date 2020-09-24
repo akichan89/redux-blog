@@ -9,6 +9,10 @@
     "analyze": "react-static build --analyze",
     "serve": "serve dist -p 3000"
   },
+  "engines": {
+    "node": "12.18.3"
+  },
+  
   "dependencies": {
     "@reach/router": "^1.2.1",
     "axios": "^0.18.0",
