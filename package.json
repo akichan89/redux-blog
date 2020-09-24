@@ -10,9 +10,9 @@
     "serve": "serve dist -p 3000"
   },
   "engines": {
-    "node": "12.18.3"
+    "yarn": "1.22.5"
   },
-  
+
   "dependencies": {
     "@reach/router": "^1.2.1",
     "axios": "^0.18.0",
